@@ -315,22 +315,6 @@ const sidebars = {
                 },
                  {
                   type: 'category',
-                  label: 'AWS S3',
-                  items: [
-                    {
-                      type: 'doc',
-                      id: 'user-guides/connector-guides/source/s3/setup',
-                      label: 'Setup Guide',
-                    },
-                    {
-                      type: 'doc',
-                      id: 'user-guides/connector-guides/source/s3/events',
-                      label: 'Output Events',
-                    },
-                  ],
-                },
-                 {
-                  type: 'category',
                   label: 'Amazon Billing',
                   items: [
                     {
