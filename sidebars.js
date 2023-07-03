@@ -97,10 +97,6 @@ const sidebars = {
       id: "vanus-connect/what-is-vanus-connect",
     },
     {
-      type: "doc",
-      id: "vanus-connect/use-cases",
-    },
-    {
       type: "category",
       label: "User Guides",
       items: [
