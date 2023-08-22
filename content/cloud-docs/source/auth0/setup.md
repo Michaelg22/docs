@@ -5,7 +5,7 @@ hide_title: true
 
 ### Prerequisites
 
-- An Auth0 account with administrative privileges
+- An Auth0 account with administrative privileges 
 
 ---
 
